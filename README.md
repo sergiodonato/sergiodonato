@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Sergio Donato! Vivendo entre a natureza e a tecnologia...
+## Segue alguns projetos:
 ## https://sergiodcdn.github.io/projeto-android/
+## https://sergiodcdn.github.io/projeto-cordel/
 
  <div>
    <a href="https://github.com/Sergiodcdn">
